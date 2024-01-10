@@ -1,13 +1,14 @@
  <h1 align="center" style="font-size:36px;">
   <strong>Hi there 👋 I'm Adriana!</strong>
 </h1>
+<p align="center">
+I'm a Full Stack Software Engineer based in London looking for an entry level position.
+</p>
 
 <p align="center">
   <img src="https://myreadme.vercel.app/api/embed/AdrianaIaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
-<p align="center">
-I'm a Full Stack Software Engineer based in London looking for an entry level position.
-</p>
+
 
 <h2>🖥️ Here is my Tech Stack 🖥️</h2>
 
