@@ -8,7 +8,7 @@
 
 I'm a Full Stack Software Engineer based in London looking for an entry level position.
 
-🖥️ **These are some of the Technologies I am familiar with 🖥️**
+🖥️ **Here is my Tech Stack 🖥️**
 
 - JavaScript, HTML, CSS
 - React
