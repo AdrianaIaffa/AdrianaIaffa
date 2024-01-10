@@ -6,7 +6,7 @@
   <img src="https://myreadme.vercel.app/api/embed/AdrianaIaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
 
-I'm a Full Stack Software Engineer based in London. I have recently completed General Assembly's Software Engineering Immersive bootcamp and I'm currently looking for my first software engineering role.
+I'm a Full Stack Software Engineer based in London looking for my first software engineering role.
 
 🖥️ **These are some of the Technologies I am familiar with 🖥️**
 
