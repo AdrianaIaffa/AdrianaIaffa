@@ -23,7 +23,7 @@ I'm a Full Stack Software Engineer based in London. I have recently completed Ge
 - Bootstrap
 - Tailwind
 
-
+I am a versatile and creative problem-solver with a unique blend of skills, combining a background in photography with a newfound passion for software engineering. As a seasoned photographer, I sharpen my ability to capture the essence of a moment and transform ideas into visual artistry. Now, I am translating that creativity and attention to detail into crafting elegant and user-friendly software solutions.
 <!--
 **AdrianaIaffa/AdrianaIaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
