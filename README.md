@@ -2,7 +2,11 @@
   <strong>Hi there 👋 I'm Adriana!</strong>
 </p>
 
-I'm a Junior Full Stack Software Engineer based in 🇬🇧 London 🇬🇧. I've recently completed General Assembly's Software Engineering Immersive boot camp and I'm currently seeking my first software engineering role.
+<p align="center">
+  <img src="https://myreadme.vercel.app/api/embed/AdrianaIaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
+
+I'm a Junior Full Stack Software Engineer based in London. I've recently completed General Assembly's Software Engineering Immersive boot camp and I'm currently seeking my first software engineering role.
 
 🖥️ **These are some of the Technologies I am familiar with 🖥️**
 
