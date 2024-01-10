@@ -1,6 +1,6 @@
-<p align="center" style="font-size:36px;">
+ <h1 align="center" style="font-size:36px;">
   <strong>Hi there 👋 I'm Adriana!</strong>
-</p>
+</h1>
 
 <p align="center">
   <img src="https://myreadme.vercel.app/api/embed/AdrianaIaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
@@ -8,7 +8,7 @@
 
 I'm a Full Stack Software Engineer based in London looking for an entry level position.
 
-🖥️ **Here is my Tech Stack 🖥️**
+<h2>🖥️ Here is my Tech Stack 🖥️</h2>
 
 - JavaScript, HTML, CSS
 - React
